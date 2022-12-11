@@ -1,0 +1,15 @@
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\obj\Debug\net6.0\23.csproj.AssemblyReference.cache
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\obj\Debug\net6.0\23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\obj\Debug\net6.0\23.AssemblyInfoInputs.cache
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\obj\Debug\net6.0\23.AssemblyInfo.cs
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\obj\Debug\net6.0\23.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\bin\Debug\net6.0\23.exe
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\bin\Debug\net6.0\23.deps.json
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\bin\Debug\net6.0\23.runtimeconfig.json
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\bin\Debug\net6.0\23.dll
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\bin\Debug\net6.0\23.pdb
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\obj\Debug\net6.0\23.dll
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\obj\Debug\net6.0\refint\23.dll
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\obj\Debug\net6.0\23.pdb
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\obj\Debug\net6.0\23.genruntimeconfig.cache
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\3_занятие\23\obj\Debug\net6.0\ref\23.dll
