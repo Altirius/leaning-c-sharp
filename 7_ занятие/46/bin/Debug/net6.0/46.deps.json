@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "7_ занятие/1.0.0": {
+      "46/1.0.0": {
         "runtime": {
-          "7_ занятие.dll": {}
+          "46.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "7_ занятие/1.0.0": {
+    "46/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
