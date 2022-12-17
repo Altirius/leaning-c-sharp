@@ -1,0 +1,15 @@
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\bin\Debug\net6.0\7_ занятие.exe
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\bin\Debug\net6.0\7_ занятие.deps.json
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\bin\Debug\net6.0\7_ занятие.runtimeconfig.json
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\bin\Debug\net6.0\7_ занятие.dll
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\bin\Debug\net6.0\7_ занятие.pdb
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\obj\Debug\net6.0\7_ занятие.csproj.AssemblyReference.cache
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\obj\Debug\net6.0\7_ занятие.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\obj\Debug\net6.0\7_ занятие.AssemblyInfoInputs.cache
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\obj\Debug\net6.0\7_ занятие.AssemblyInfo.cs
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\obj\Debug\net6.0\7_ занятие.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\obj\Debug\net6.0\7_ занятие.dll
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\obj\Debug\net6.0\refint\7_ занятие.dll
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\obj\Debug\net6.0\7_ занятие.pdb
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\obj\Debug\net6.0\7_ занятие.genruntimeconfig.cache
+C:\Users\misha\Desktop\С\Знакомство_с_языками_программирования\7_ занятие\obj\Debug\net6.0\ref\7_ занятие.dll
