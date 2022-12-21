@@ -10,7 +10,7 @@ int[,] createRandomMatrix(int n, int m)
 	{
 		for (int j = 0; j < m; j++)
 		{
-			matrix[i, j] = rnd.Next(1, 10);
+			matrix[i, j] = rnd.Next(0, 9);
 		}
 	}
 	return matrix;
