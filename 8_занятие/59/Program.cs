@@ -37,7 +37,7 @@ void writeMatrix(int[,] matrix)
 	Console.WriteLine();
 }
 
-void translateMatrix(int n, int m)
+void removeMinValueRowColumn(int n, int m)
 {
 	if (n == 0 || m == 0)
 		return;
@@ -78,4 +78,4 @@ void translateMatrix(int n, int m)
 
 int n = 4;
 int m = 4;
-translateMatrix(n, m);
+removeMinValueRowColumn(n, m);

@@ -38,7 +38,7 @@ void writeMatrix(int[,] matrix)
 	Console.WriteLine();
 }
 
-void translateMatrix(int n, int m)
+void getMinSumRow(int n, int m)
 {
 	int[,] matrix = createRandomMatrix(n, m);
 	writeMatrix(matrix);
@@ -68,4 +68,4 @@ void translateMatrix(int n, int m)
 
 int n = 4;
 int m = 4;
-translateMatrix(n, m);
+getMinSumRow(n, m);
