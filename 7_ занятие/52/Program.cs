@@ -17,7 +17,7 @@ void arrayNumber2D()
 		for (int j = 0; j < 7; j++)
 		{
 			arrayNumbers[i, j] = rnd.Next(1, 10);
-			arraySA[i] = arraySA[i] + arrayNumbers[i, j];
+			arraySA[i] = arraySA[i] + arrayNumbers[j, i];
 		}
 		arraySA[i] = Math.Round(arraySA[i] / 7, 2);
 	}
